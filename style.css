@@ -1,1 +1,17 @@
+header{
+    text-align: center;
+    font-family: monospace;
+    font-size: 30px;
+    color: rgb(19, 19, 147);
+    border: 5px blue solid;
+    box-shadow: 10px 10px 10px rgb(0, 255, 242);
+    background: url(https://avatars.mds.yandex.net/i?id=03e89c16a255e70328a071766dce00e3b5ac8daa-10376972-images-thumbs&n=13)
+}
 
+a{
+    border: 5px blue solid;
+    box-shadow: 5px 5px 1px rgb(0, 255, 242);
+    padding: 30;
+    text-shadow: 1px 1px rgb(0, 255, 242);
+    background-color: rgb(0, 255, 242);
+}
