@@ -3,14 +3,69 @@ header{
     font-family: monospace;
     font-size: 20px;
     color: aqua;
-    border: 5px aqua solid;
+    border: 5px rgb(15, 143, 143) solid;
     box-shadow: 10px 10px 10px rgb(6, 193, 193);
     text-shadow: 2px 2px black;
     background: url(https://phonoteka.org/uploads/posts/2021-07/1625577871_15-phonoteka-org-p-zastavka-dlya-mastera-manikyura-krasivie-z-15.jpg);
 }
 
-main{
-    text-align: center;
+body{
+    font-size: 25px;
+    background: rgb(0, 255, 145);
+}
+
+.hend{
+    float: right;
+    font-size: 23px;
+    background: rgb(6, 231, 152);
+}
+
+.work{
+    float: left;
     font-size: 20px;
-    background: rgb(0, 255, 213);
+    background: rgb(6, 231, 152);
+}
+
+img:hover{
+    transform: scale(0.9);
+    transition: all 0.1s linear;
+}
+
+img{
+    border: 5px aqua solid;
+    box-shadow: 10px 10px 10px aqua;
+}
+
+a:hover{
+    color: rgb(0, 255, 110);
+    transform: scale(1.1);
+    transition: all 0.1s linear;
+}
+
+.head{
+    text-align: center;
+    background: black;
+}
+
+a{
+    text-decoration: none;
+    font-size: 40px;
+    display: inline-block;
+    margin: 40px;
+    color: rgb(27, 188, 97);
+}
+
+a img:hover{
+    transform: scale(1.1);
+    transition: all 0.1s linear;
+}
+
+.p{
+    font-size: 30px;
+    text-shadow: 1px 1px;
+}
+
+.p:hover{
+    font-size: 35px;
+    text-decoration: underline;
 }
