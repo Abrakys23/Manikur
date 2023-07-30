@@ -1,7 +1,7 @@
 header{
     text-align: center;
     font-family: monospace;
-    font-size: 30px;
+    font-size: 20px;
     color: aqua;
     border: 5px aqua solid;
     box-shadow: 10px 10px 10px rgb(6, 193, 193);
@@ -9,49 +9,8 @@ header{
     background: url(https://phonoteka.org/uploads/posts/2021-07/1625577871_15-phonoteka-org-p-zastavka-dlya-mastera-manikyura-krasivie-z-15.jpg);
 }
 
-a{
-    border: 5px aqua solid;
-    box-shadow: 5px 5px 1px rgb(6, 193, 193);
-    text-decoration: none;
-    text-shadow: 2px 2px black;
-    color: aqua;
-}
-
 main{
-    text-align: left;
-    font-size: 20px;
-    color: aqua;
-    border: 5px aqua solid;
-    box-shadow: 10px 10px 10px rgb(6, 193, 193);
-    text-shadow: 2px 2px black;
-    background: url(https://klike.net/uploads/posts/2022-11/1667455051_3-57.jpg);
-}
-
-body{
     text-align: center;
-    font-family: monospace;
-    font-size: 30px;
-    color: aqua;
-    border: 10px aqua solid;
-    box-shadow: 10px 10px 10px rgb(6, 193, 193);
-    background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613305615_59-p-sinii-mramornii-fon-90.jpg);
-}
-
-.h12{
-    color: aqua;
-    font-size: 23px;
-    text-shadow: 1px 1px black;
-}
-footer{
-    font-size: 30px;
-    color: rgb(0, 213, 255);
-    border: 5px rgb(0, 255, 234) solid;
-    box-shadow: 10px 10px 10px rgb(0, 255, 204);
-    text-shadow: 1px 1px black;
-    background: url(https://phonoteka.org/uploads/posts/2021-04/1619464695_14-phonoteka_org-p-shapka-dlya-yutuba-chernii-fon-24.jpg);
-}
-
-#vnimanie{
-    font-size: 33px;
-    color: white;
+    font-size: 20px;
+    background: rgb(0, 255, 213);
 }
