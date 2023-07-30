@@ -15,16 +15,16 @@ a{
     text-decoration: none;
     text-shadow: 2px 2px black;
     color: aqua;
-    background: url(https://almode.ru/uploads/posts/2020-12/1608701850_6-p-kartinki-vektornogo-manikyura-14.png);
 }
 
 main{
+    text-align: left;
     font-size: 20px;
     color: aqua;
     border: 5px aqua solid;
     box-shadow: 10px 10px 10px rgb(6, 193, 193);
     text-shadow: 2px 2px black;
-    background: url(https://sun9-33.userapi.com/impf/884CpOqK_BM8AK_pshPNbqZMy0MjYTfOWreUrw/UWY1QhocFeg.jpg?size=1818x606&quality=95&crop=0,9,1200,400&sign=d3572a4204946afdeb2c678bab1dc3f2&type=cover_group);
+    background: url(https://klike.net/uploads/posts/2022-11/1667455051_3-57.jpg);
 }
 
 body{
@@ -37,8 +37,21 @@ body{
     background: url(https://catherineasquithgallery.com/uploads/posts/2021-02/1613305615_59-p-sinii-mramornii-fon-90.jpg);
 }
 
-.h12 p{
-    color: white;
-    font-size: 20px;
+.h12{
+    color: aqua;
+    font-size: 23px;
     text-shadow: 1px 1px black;
+}
+footer{
+    font-size: 30px;
+    color: rgb(0, 213, 255);
+    border: 5px rgb(0, 255, 234) solid;
+    box-shadow: 10px 10px 10px rgb(0, 255, 204);
+    text-shadow: 1px 1px black;
+    background: url(https://phonoteka.org/uploads/posts/2021-04/1619464695_14-phonoteka_org-p-shapka-dlya-yutuba-chernii-fon-24.jpg);
+}
+
+#vnimanie{
+    font-size: 33px;
+    color: white;
 }
