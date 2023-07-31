@@ -59,3 +59,12 @@ img{
 body{
     background-color: rgb(28, 174, 174); 
 }
+
+.work{
+    float: left;
+    border: 10px black solid;
+    font-family: monospace;
+    font-size: 25px;
+    margin: 30px;
+    background-color: rgb(28, 174, 174);
+}
