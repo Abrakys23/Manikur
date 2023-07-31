@@ -9,69 +9,53 @@ header{
     background: url(https://phonoteka.org/uploads/posts/2021-07/1625577871_15-phonoteka-org-p-zastavka-dlya-mastera-manikyura-krasivie-z-15.jpg);
 }
 
-.hend{
-    float: right;
-    font-size: 23px;
-    border: 5px rgb(10, 155, 155) solid;
-    background: rgb(6, 231, 227);
-}
-
-.work{
-    float: left;
-    font-size: 20px;
-    border: 5px rgb(10, 155, 155) solid;
-    background: rgb(6, 231, 224);
-}
-
-.work img{
-    border: 5px aqua solid;
-    box-shadow: 10px 10px 10px aqua;
-}
-
-a:hover{
-    color: rgb(0, 255, 110);
-    transform: scale(1.1);
-    transition: all 0.1s linear;
-}
-
 .head{
+    font-size: 30px;
     text-align: center;
-    background: black;
+    background-color: rgb(6, 193, 193);
+    margin: 5px;
+    padding: 5px;
 }
 
 a{
-    text-decoration: none;
-    font-size: 40px;
     display: inline-block;
-    margin: 40px;
-    color: rgb(27, 188, 97);
+    margin: 20px;
+    text-decoration: none;
 }
 
-a img:hover{
-    transform: scale(1.1);
+.hend a{
+    font-size: 30px;
+    float: right;
+    text-decoration: none;
+    padding: 130px;
+    color: rgb(0, 0, 0);
+    background: url(https://avatars.mds.yandex.net/i?id=d75cac22b27016a1316c21a086c4642e85da30d0-9288635-images-thumbs&n=13);
+}
+
+a:hover{
+    transform: scale(1.05);
     transition: all 0.1s linear;
 }
 
-.p{
-    font-size: 30px;
+a{
+    color: rgb(0, 0, 0);
+    border: 5px rgb(0, 0, 0) solid;
     text-shadow: 1px 1px;
+    box-shadow: 10px 10px 10px rgb(34, 161, 161);
 }
 
-.p:hover{
-    font-size: 35px;
-    text-decoration: underline;
+.hend{
+    float: right;
+    border: 10px black solid;
+    font-family: monospace;
+    font-size: 25px;
+    background-color: rgb(28, 174, 174);
 }
 
 img{
-    border: 5px aqua solid;
-    box-shadow: 10px 10px 10px aqua;
+    border: 7px black solid;
 }
 
 body{
-    background: aqua;
-    font-family: monospace;
-}
-
-.ah{
-    background: url(https://catherineasquithgallery.com/uploads/posts/2023-01/1674246252_catherineasquithgallery-com-p-serii-kraftovii-fon-foto-15.jpg);
+    background-color: rgb(28, 174, 174); 
 }
