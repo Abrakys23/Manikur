@@ -11,27 +11,22 @@ header{
 
 body{
     font-size: 25px;
-    background: rgb(0, 255, 145);
+    background: rgb(0, 255, 247);
 }
 
 .hend{
     float: right;
     font-size: 23px;
-    background: rgb(6, 231, 152);
+    background: rgb(6, 231, 227);
 }
 
 .work{
     float: left;
     font-size: 20px;
-    background: rgb(6, 231, 152);
+    background: rgb(6, 231, 224);
 }
 
-img:hover{
-    transform: scale(0.9);
-    transition: all 0.1s linear;
-}
-
-img{
+.work img{
     border: 5px aqua solid;
     box-shadow: 10px 10px 10px aqua;
 }
@@ -68,4 +63,9 @@ a img:hover{
 .p:hover{
     font-size: 35px;
     text-decoration: underline;
+}
+
+img{
+    border: 5px aqua solid;
+    box-shadow: 10px 10px 10px aqua;
 }
