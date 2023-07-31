@@ -54,6 +54,7 @@ a{
 
 img{
     border: 7px black solid;
+    box-shadow: 10px 10px 10px aqua;
 }
 
 body{
@@ -67,4 +68,14 @@ body{
     font-size: 25px;
     margin: 30px;
     background-color: rgb(28, 174, 174);
+}
+
+.ah{
+    font-size: 30px;
+    background-color: rgb(27, 190, 190);
+}
+
+.ah:hover{
+    transform: scale(1.1);
+    transition: all 0.1s linear;
 }
