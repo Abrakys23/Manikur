@@ -24,11 +24,12 @@ a{
 }
 
 .hend a{
-    font-size: 30px;
+    font-size: 40px;
     float: right;
     text-decoration: none;
     padding: 130px;
-    color: rgb(0, 0, 0);
+    color: red;
+    box-shadow: 10px 10px 10px aqua;
     background: url(https://avatars.mds.yandex.net/i?id=d75cac22b27016a1316c21a086c4642e85da30d0-9288635-images-thumbs&n=13);
 }
 
@@ -42,19 +43,22 @@ a{
     border: 5px rgb(0, 0, 0) solid;
     text-shadow: 1px 1px;
     box-shadow: 10px 10px 10px rgb(34, 161, 161);
+    padding: 10px;
 }
 
 .hend{
     float: right;
-    border: 10px black solid;
+    border: 7px black solid;
     font-family: monospace;
     font-size: 25px;
     background-color: rgb(28, 174, 174);
+    padding: 10px;
 }
 
 img{
     border: 7px black solid;
     box-shadow: 10px 10px 10px aqua;
+    margin: 10px;
 }
 
 body{
@@ -63,10 +67,11 @@ body{
 
 .work{
     float: left;
-    border: 10px black solid;
+    border: 7px black solid;
     font-family: monospace;
     font-size: 25px;
     margin: 30px;
+    padding: 10px;
     background-color: rgb(28, 174, 174);
 }
 
@@ -75,7 +80,31 @@ body{
     background-color: rgb(27, 190, 190);
 }
 
-.ah:hover{
-    transform: scale(1.1);
-    transition: all 0.1s linear;
+h1{
+    font-size: 50px;
+}
+
+.pa{
+    float: right;
+    font-size: 30px;
+}
+
+.a{
+    float: right;
+}
+
+.b{
+    float: left;
+}
+
+.pa{
+    float: left;
+    font-size: 40px;
+    text-decoration: underline;
+    text-shadow: 1px 1px black;
+}
+
+.ah{
+    box-shadow: 10px 10px 10px aqua;
+    border: 7px black solid;
 }
