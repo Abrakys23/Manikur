@@ -1,1 +1,7 @@
-
+<a href="javascript:void(0);" onclick="windowOpen('https://avatars.mds.yandex.net/i?id=e47b9fcfc674df54ccd526f13f5a57d8a803ec04-9592077-images-thumbs&n=13');"><img src="https://avatars.mds.yandex.net/i?id=e47b9fcfc674df54ccd526f13f5a57d8a803ec04-9592077-images-thumbs&n=13" width="200" height="200" /></a> 
+<script> 
+function windowOpen(theURL) 
+{ 
+window.open(theURL,'','toolbar=0,status=0,scrollbars=0,fullscreen=1'); 
+} 
+</script> 
