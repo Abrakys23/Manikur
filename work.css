@@ -1,7 +1,25 @@
-<a href="javascript:void(0);" onclick="windowOpen('https://avatars.mds.yandex.net/i?id=e47b9fcfc674df54ccd526f13f5a57d8a803ec04-9592077-images-thumbs&n=13');"><img src="https://avatars.mds.yandex.net/i?id=e47b9fcfc674df54ccd526f13f5a57d8a803ec04-9592077-images-thumbs&n=13" width="200" height="200" /></a> 
-<script> 
-function windowOpen(theURL) 
-{ 
-window.open(theURL,'','toolbar=0,status=0,scrollbars=0,fullscreen=1'); 
+.ah{
+    background-color: aqua;
+    color: black;
+    border-color: black;
+    text-align: center;
+    font-size: 30px;
+    font-family: monospace;
 } 
-</script> 
+
+.okvk{
+
+}
+
+.ah a{
+    display: inline-block;
+    margin: 20px;
+    width: 300px;
+    min-height: 300px;
+    text-decoration: none;
+    border: 5px black double;
+}
+
+.okvk a{
+
+}
