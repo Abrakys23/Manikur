@@ -7,19 +7,70 @@
     font-family: monospace;
 } 
 
-.okvk{
-
+.okvk{ 
+    text-decoration: underline;
+    text-shadow: 1px 1px grey;
+    padding: 20px;
 }
 
 .ah a{
+    box-shadow: 10px 10px 10px rgb(80, 155, 155);
     display: inline-block;
     margin: 20px;
     width: 300px;
+    font-size: 30px;
     min-height: 300px;
     text-decoration: none;
     border: 5px black double;
 }
 
 .okvk a{
+    color: purple;
+}
 
+.ah a:hover{
+    font-size: 31px;
+    border: 10px black double;
+    transform: scale(1.05);
+    transition: all 0.1s linear;
+}
+
+header{
+    text-shadow: 2px 2px black;
+    color: aqua;
+    font-size: 33px;
+    text-align: center;
+    padding: 20px;
+    background: url(https://gas-kvas.com/uploads/posts/2023-03/1678441526_gas-kvas-com-p-manikyur-na-chernom-fone-belii-risunok-34.jpg);
+}
+
+footer{
+    text-align: center;
+    font-size: 33px;
+    background-color: rgb(4, 118, 118);
+}
+
+body{
+    font-family: monospace;
+    background: url(https://gas-kvas.com/uploads/posts/2023-03/1678441526_gas-kvas-com-p-manikyur-na-chernom-fone-belii-risunok-34.jpg);
+}
+
+span{
+    font-size: 40px;
+    color: red;
+    text-decoration: underline;
+    text-shadow: 1px 1px black;
+}
+
+main{
+    box-shadow: 10px 10px 10px rgb(80, 155, 155);
+}
+
+footer:hover{
+    transform: scale(1.1);
+    transition: all 0.1s linear;
+}
+
+okvk a{
+    font-size: 40px;
 }
