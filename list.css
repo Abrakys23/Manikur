@@ -1,1 +1,35 @@
+header{
+    font-size: 30px;
+    text-align: center;
+    text-shadow: 2px 2px grey;
+    box-shadow: 10px 10px 10px white;
+    padding: 40px;
+    background: url(https://avatars.mds.yandex.net/i?id=7c44764454bf457b28c82d19ed302eb47d488a8b-5233531-images-thumbs&n=13);
+}
 
+body{
+    background: aqua;
+}
+
+.ul{
+    font-size: 40px;
+    background-color: rgb(12, 238, 238);
+    box-shadow: 10px 10px 10px white;
+    border: 7px white solid;
+}
+
+h2{
+    font-size: 40px;
+}
+
+a{
+    padding: 40px;
+    border: 5px white solid;
+    box-shadow: 10px 10px 10px white;
+    margin: 50px;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(16, 213, 213);
+    text-shadow: 1px 1px black;
+}
