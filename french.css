@@ -1,1 +1,35 @@
+header{
+    font-size: 40px;
+    border: 5px black solid;
+    box-shadow: 10px 10px 10px white;
+    text-shadow: 2px 2px grey;
+    background: url(https://avatars.mds.yandex.net/i?id=7c44764454bf457b28c82d19ed302eb47d488a8b-5233531-images-thumbs&n=13);
+}
 
+body{
+    font-family: monospace;
+    text-align: center;
+    background-color: aqua;
+}
+
+a{
+    color: blue;
+    font-size: 41px;
+    text-decoration: none;
+    text-shadow: 2px 2px black;
+}
+
+.okvk{
+    background-color: white;
+    border: 5px black solid;
+    box-shadow: 10px 10px 10px grey;
+}
+
+img{
+    border: 3px black solid;
+}
+
+img:hover{
+    transform: scale(1.1);
+    transition: all 0.1s linear;
+}
