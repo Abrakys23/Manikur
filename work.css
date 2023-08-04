@@ -17,6 +17,9 @@
     box-shadow: 10px 10px 10px rgb(80, 155, 155);
     display: inline-block;
     margin: 20px;
+    color: black;
+    background-color: aliceblue;
+    text-shadow: 1px 1px grey;
     width: 300px;
     font-size: 30px;
     min-height: 300px;
@@ -66,11 +69,26 @@ main{
     box-shadow: 10px 10px 10px rgb(80, 155, 155);
 }
 
-footer:hover{
-    transform: scale(1.1);
-    transition: all 0.1s linear;
+.okvk a{
+    font-size: 40px;
 }
 
-okvk a{
-    font-size: 40px;
+.a{
+    background: url();
+}
+
+.b{
+    background: url();
+}
+
+a{
+    padding: 40px;
+    border: 5px white solid;
+    box-shadow: 10px 10px 10px white;
+    margin: 30px;
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(16, 213, 213);
+    text-shadow: 1px 1px black;
 }
