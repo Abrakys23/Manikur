@@ -27,7 +27,8 @@ a{
     font-size: 40px;
     float: right;
     text-decoration: none;
-    padding: 130px;
+    width: 450px;
+    height: 270px;
     color: red;
     box-shadow: 10px 10px 10px aqua;
     background: url(https://avatars.mds.yandex.net/i?id=d75cac22b27016a1316c21a086c4642e85da30d0-9288635-images-thumbs&n=13);
